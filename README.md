@@ -17,18 +17,8 @@ Acesse o e-commerce no seguinte link: [On Track Brasil](https://ontrackbrasil.co
 ## 🚀 Tecnologias Utilizadas
 
 - **Shopify**: Plataforma principal para gerenciamento de produtos, inventário, e sistema de pagamento.
-- **HTML5/CSS3**: Para personalizações de layout e design responsivo.
-- **JavaScript**: Funcionalidades interativas e melhorias na experiência do usuário.
 - **Liquid**: Linguagem de template utilizada pelo Shopify para criação de temas personalizados.
 - **Apps Shopify**: Integrações para otimizar performance e experiência de compra.
 
-## 📦 Como Rodar o Projeto Localmente
 
-Este projeto foi desenvolvido diretamente na plataforma Shopify, o que significa que não há necessidade de instalação local para ver o site funcionando. No entanto, para contribuições ao código ou desenvolvimento de novas funcionalidades:
-
-1. Clone o repositório do tema utilizado no Shopify.
-2. Utilize o [Shopify CLI](https://shopify.dev/themes/tools/cli) para conectar o tema ao seu ambiente Shopify.
-3. Inicie o servidor de desenvolvimento com o comando:
-   ```bash
-   shopify theme serve
 
